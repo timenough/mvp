@@ -1,4 +1,7 @@
 # timeNough's MVP
+
+[![Join the chat at https://gitter.im/timenough/Lobby](https://badges.gitter.im/timenough/Lobby.svg)](https://gitter.im/timenough/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The project let's people test and see in action the Minimum Viable Product of the enterprise software dedicated to employee time tracking and monitoring called timeNough.
 
 > Live [demo #1](https://www.timenough.com/demo/mailboxes/2.l.bowen) and [demo #2](https://www.timenough.com/demo/mailboxes/1.j.doeson).
