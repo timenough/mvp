@@ -17,7 +17,7 @@ The project let's people test and see in action the Minimum Viable Product of th
 
 ## General Information
 - The purpose of timeNough is to increase the comfort and the trust of time tracking and monitoring activities performed in corporate environments, by reducing the number of interfaces that employees need to use or handle as much as possible.
-- The main and unavoidable common employees are dealing with it the email mailbox, based on timeNough founders assumption, and the MVP will focus on email messages and signals an employee, a user or tester can send to an internal email address that will act like an open door to the software, a way to pilot it, send him requests, commands, etc.
+- The main and unavoidable interfacve common employees are dealing with it the email mailbox, based on timeNough's founders assumptions, and the MVP will focus on email messages and signals an employee, a user or tester can send to an internal email address that will act like an open door to the software, a way to pilot it, send him requests, commands, etc.
 - Unique Selling Proposition: _Less interface, better flow_.
 
 
