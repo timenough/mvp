@@ -1,0 +1,23 @@
+window.demoUsers =
+	[
+		{ value: 1, name: "Ryan Farrell", avatar: "https://timenough.com/any-picto.php?e=r.farell@corenough.com", email: "r.farell@corenough.com", toBeAddedInCC: false },
+		{ value: 2, name: "Megan Rothstein", avatar: "https://timenough.com/any-picto.php?e=m.rothstein@corenough.com", email: "m.rothstein@corenough.com", toBeAddedInCC: false  },
+		{ value: 3, name: "Paul Griffin", avatar: "https://timenough.com/any-picto.php?e=p.griffin@corenough.com", email: "p.griffin@corenough.com", toBeAddedInCC: false },
+		{ value: 4, name: "Elizabeth D. Ross", avatar: "https://timenough.com/any-picto.php?e=e.ross@corenough.com", email: "e.ross@corenough.com", toBeAddedInCC: false },
+		{ value: 5, name: "Lara Bowen", avatar: "https://timenough.com/any-picto.php?e=l.bowen@corenough.com", email: "l.bowen@corenough.com", toBeAddedInCC: false },
+		{ value: 6, name: "Julianne Mueller", avatar: "https://timenough.com/any-picto.php?e=j.mueller@corenough.com", email: "j.mueller@corenough.com", toBeAddedInCC: false },
+		{ value: 7, name: "Sofija Knežević", avatar: "https://timenough.com/any-picto.php?e=s.knezevic@corenough.com", email: "s.knezevic@corenough.com", toBeAddedInCC: false },
+		{ value: 8, name: "Yukimi Matsuo", avatar: "https://timenough.com/any-picto.php?e=y.matsuo@corenough.com", email: "y.matsuo@corenough.com", toBeAddedInCC: false },
+		{ value: 9, name: "Billy Whitten", avatar: "https://timenough.com/any-picto.php?e=b.whitten@corenough.com", email: "b.whitten@corenough.com", toBeAddedInCC: false },
+		{ value: 10, name: "John Doeson", avatar: "https://timenough.com/any-picto.php?e=j.doeson@corenough.com", email: "j.doeson@corenough.com", toBeAddedInCC: false },
+		{ value: 11, name: "Cesare Araujo", avatar: "https://timenough.com/any-picto.php?e=c.araujo@corenough.com", email: "c.araujo@corenough.com", toBeAddedInCC: false },
+		{ value: 12, name: "Aaron Bennett", avatar: "https://timenough.com/any-picto.php?e=a.bennett@corenough.com", email: "a.bennett@corenough.com", toBeAddedInCC: false },
+		{ value: 13, name: "Time Logger", avatar: "https://secure.gravatar.com/avatar/3c8d1bec58bbd9d5503e240ff3eec08b?size=45", email: "b@corenough.com", toBeAddedInCC: true },
+		{ value: 14, name: "Time Clock-in", avatar: "https://secure.gravatar.com/avatar/31252ba652b4e6fc858562150a9cdf76?size=45", email: "b+in@corenough.com", toBeAddedInCC: false },
+		{ value: 15, name: "Time Clock-out", avatar: "https://secure.gravatar.com/avatar/5eca17cf96ab4a5c3eb77d80eb560f0c?size=45", email: "b+out@corenough.com", toBeAddedInCC: true },
+		{ value: 16, name: "Time Pause", avatar: "https://secure.gravatar.com/avatar/6e3fe5e61b5d62bd106283f837b058d1?size=45", email: "b+pause@corenough.com", toBeAddedInCC: false },
+		{ value: 17, name: "Time Back", avatar: "https://secure.gravatar.com/avatar/05bb93a8b77f438f0732375ee3dc0d33?size=45", email: "b+back@corenough.com", toBeAddedInCC: true },
+		{ value: 18, name: "Time Away", avatar: "https://secure.gravatar.com/avatar/6bca1defa7f9a15dd465cb403e39b2b9?size=45", email: "b+away@corenough.com", toBeAddedInCC: true },
+		{ value: 19, name: "Time Late", avatar: "https://secure.gravatar.com/avatar/99cc8ad3b8f155d9f302f74eedfe90f2?size=45", email: "b+late@corenough.com", toBeAddedInCC: false },
+		{ value: 20, name: "Time Quant", avatar: "https://secure.gravatar.com/avatar/24edab1a59c34b6feb75680289685bd9?size=45", email: "b+quant@corenough.com", toBeAddedInCC: false },
+	];
