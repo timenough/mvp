@@ -17,13 +17,12 @@ The project let's people test and see in action the Minimum Viable Product of th
 
 ## General Information
 - The purpose of timeNough is to increase the comfort and the trust of time tracking and monitoring activities performed in corporate environments, by reducing the number of interfaces that employees need to use or handle as much as possible.
-- The main and unavoidable interfacve common employees are dealing with it the email mailbox, based on timeNough's founders assumptions, and the MVP will focus on email messages and signals an employee, a user or tester can send to an internal email address that will act like an open door to the software, a way to pilot it, send him requests, commands, etc.
+- The main and unavoidable interface common employees are dealing with it the email mailbox, based on timeNough founders assumption, and the MVP will focus on email messages and signals an employee, a user or tester can send to an internal email address that will act like an open door to the software, a way to pilot it, send him requests, commands, etc.
 - Unique Selling Proposition: _Less interface, better flow_.
 
 
 ## Technologies Used (backend)
 - PHP • version [7.4.21](https://www.php.net/ChangeLog-7.php#7.4.21)
-- Phpdotenv • version [5.4.1](https://github.com/vlucas/phpdotenv)
 - PHPMailer • version [6.5](https://github.com/PHPMailer/PHPMailer)
 - Defuse php-encryption • version [2.3.1](https://github.com/defuse/php-encryption)
 - Mailchimp Marketing • version [3.0.74](https://github.com/mailchimp/mailchimp-marketing-php)
@@ -66,6 +65,8 @@ The project let's people test and see in action the Minimum Viable Product of th
 ![screenshot 1](./README.md.screenshot-1.png)
 ![screenshot 2](./README.md.screenshot-2.png)
 ![screenshot 3](./README.md.screenshot-3.png)
+![screenshot 4](./README.md.screenshot-4.png)
+![screenshot 5](./README.md.screenshot-5.png)
 
 
 ## Setup
